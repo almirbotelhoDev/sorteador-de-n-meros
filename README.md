@@ -1,4 +1,4 @@
-<h1>Sorteador de números</h1>
+<h1>Gerador de números</h1>
 
 <h2>🏷️ Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação para fazer um gerador de números aleartorios.</p>
